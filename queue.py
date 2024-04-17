@@ -10,7 +10,7 @@ a.append(8)
 a.append(7)
 a.append(6)
 
-#Removes first elemet
+
 print(a.popleft())
 print(a.popleft())
 print(a.popleft())
